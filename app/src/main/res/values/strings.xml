@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TheNetwork</string>
+    <string name="api_key">AIzaSyDAP6f4-scJDTgRQ52ZSrSwsZMzTOSJ32k</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
